@@ -4,9 +4,9 @@ Declaro que o presente trabalho contém código desenvolvido exclusivamente por 
 
 (Preencha com seus dados)
 
-- Nome completo: Rodrigo Ferreira Rodrigues
-- Username do Bitbucket: rodi96
-- Email @inf: rfrodrigues@inf.ufpel.edu.br
+- Nome completo: *****
+- Username do Bitbucket: *****
+- Email @inf: *****
 
 
 ## Descrição 
